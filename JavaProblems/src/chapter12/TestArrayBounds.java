@@ -11,6 +11,7 @@ import java.util.Scanner;
 public class TestArrayBounds {
 
 	public static void main(String[] args) {
+		@SuppressWarnings("resource")
 		Scanner input = new Scanner(System.in);
 		Random rand = new Random();
 		

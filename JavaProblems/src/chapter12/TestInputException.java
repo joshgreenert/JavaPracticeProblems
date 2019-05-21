@@ -7,6 +7,7 @@ package chapter12;
 public class TestInputException {
 
 	public static void main(String[] args) {
+		@SuppressWarnings("resource")
 		java.util.Scanner input = new java.util.Scanner(System.in);
 		
 		int num1 = 0, num2 = 0;
