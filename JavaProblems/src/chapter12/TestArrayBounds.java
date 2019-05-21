@@ -3,6 +3,7 @@ package chapter12;
 import java.util.Random;
 import java.util.Scanner;
 
+
 /*
  * Write a program that creates an array of 100 elements,
  * prompts the user for index of element.  If index is out of bounds,
